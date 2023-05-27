@@ -1,7 +1,8 @@
 ############################
 # OS X
 ############################
-
+.env
+.config/env/production
 .DS_Store
 .AppleDouble
 .LSOverride
