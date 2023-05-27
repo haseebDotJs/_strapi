@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_seo_globals",
+  "info": {
+    "displayName": "Global"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
